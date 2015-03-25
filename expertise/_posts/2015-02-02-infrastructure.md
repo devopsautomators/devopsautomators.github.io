@@ -1,8 +1,12 @@
 ---
 category: expertise
 ---
-## Infrastructure experts
+## Continuous Delivery experts
 
-A common made mistake is the idea that containers will magically solve all sorts of infrastructure problems. But this is not true. You still need to take care of storage, networking, loadbalancing etcetera. And what about service discovery, logging and monitoring and auditing? We have years of experience building public and private PaaS platforms. 
 
-So we do know how to integrate container based infrastructure in your existing landscape. And it's not only about tooling: we worked with all sorts of storage systems and network equipment. Moving to containers also means making changes to your current infrastructure. We can help you with that.
+With Agile, the main objective is to deliver a fully functional product demo by the end of every sprint. But often this demo material gets ‘stuck’ somewhere between the Development environment and the subsequent Test, Acceptance and Production environments. 
+
+Continuous Delivery supports market-driven change requirements (think: creating your product from a minimal viable product) and a fast, continuous and consistent delivery to the customer through automation of every single manual step in the pipeline. Be it the automation of packaging, tests, deployments or even instantiating new infrastructure.
+
+For a large part Continuous Delivery hoovers around automation. Implementing Tools is just part of the solution, establishing a culture in which your business generates constant ideas is another. We have years of experiences in this field and can help you on technical, process and an organizational level.
+
