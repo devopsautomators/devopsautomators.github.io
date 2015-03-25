@@ -172,7 +172,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #{{ site.color.blue }};
+    background-color: #{{ site.color.green }};
 }
 
 .navbar-default img.img-responsive {
@@ -262,7 +262,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #{{ site.color.blue }};
+        background-color: #{{ site.color.green }};
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -274,7 +274,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-		background-color: #{{ site.color.blue }};
+		background-color: #{{ site.color.green }};
 }
 
 header .intro-text {
