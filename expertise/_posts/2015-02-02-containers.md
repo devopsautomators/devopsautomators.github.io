@@ -1,7 +1,7 @@
 ---
 category: expertise
 ---
-## Technical Expers
+## Technical Experts
 
 Our consultants have a technical background. They do not only give advice, communicate a well balanced message on every level of your organization, but deliver real technical implementations as well.
 
