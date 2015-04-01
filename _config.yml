@@ -38,10 +38,12 @@ people:
   pic: 3
   tagline: Cloud Engineer
   social:
-    - title: github
-      url: http://github.com/amochtar
     - title: linkedin
       url: https://nl.linkedin.com/pub/thomas-kruitbosch/0/498/386
+
+- name: Peter Willemse 
+  pic: 4
+  tagline: Educator
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
