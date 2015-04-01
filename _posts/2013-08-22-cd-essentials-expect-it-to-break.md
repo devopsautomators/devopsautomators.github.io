@@ -1,6 +1,0 @@
----
-externalurl: http://blog.xebia.com/2013/08/22/continuous-delivery-essentials-expect-it-to-break
-author: Michiel Sens 
-category: blog
----
-We are very proud that the guru Mitchell Hashimoto comes to the Netherlands to inspire us! In this talk, Mitchell Hashimoto will discuss the problems faced by the modern datacenter. And how a set of open source tools including Vagrant, Packer, Consul, and Terraform can be used to tame the rising complexity curve and provide solutions for these problems.
