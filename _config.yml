@@ -43,13 +43,6 @@ people:
     - title: linkedin
       url: https://nl.linkedin.com/pub/thomas-kruitbosch/0/498/386
 
-  name: Peter Wilemse 
-  pic: 4
-  tagline: Educator
-  social:
-    - title: linkedin
-      url: http://nl.linkedin.com/pub/peter-willemse/40/906/5b4
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
