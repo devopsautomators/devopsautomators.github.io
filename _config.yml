@@ -16,99 +16,44 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Bas Tichelaar 
+- name: Michiel Sens 
   pic: 1
-  tagline: Entreprenerd
+  tagline: CD Enthousiast
   social:
-    - title: twitter
-      url: https://twitter.com/bastichelaar
     - title: github
-      url: http://github.com/bastichelaar
+      url: https://github.com/msens
     - title: linkedin 
-      url: http://nl.linkedin.com/in/bastichelaar 
+      url: https://nl.linkedin.com/pub/michiel-sens/0/716/9a5
 
-- name: Simon van der Veldt 
+- name: Adriaan Thomas 
   pic: 2
-  tagline: Hard- and software tinkerer
+  tagline: Monitoring freak
   social:
     - title: github
-      url: http://github.com/simonvanderveldt
+      url: https://github.com/adriaanthomas
     - title: linkedin
-      url: https://nl.linkedin.com/in/simonvanderveldt
+      url: https://nl.linkedin.com/pub/adriaan-thomas/0/50a/2bb
 
-- name: Ade Mochtar 
+- name: Thomas Kruitbosch 
   pic: 3
   tagline: Cloud Engineer
   social:
     - title: github
       url: http://github.com/amochtar
+    - title: linkedin
+      url: https://nl.linkedin.com/pub/thomas-kruitbosch/0/498/386
 
-- name: Richard Woudenberg 
-  pic: 4 
-  tagline: Troublemaker
+  name: Peter Wilemse 
+  pic: 4
+  tagline: Educator
   social:
     - title: linkedin
-      url: https://nl.linkedin.com/in/richardwoudenberg  
-    - title: github
-      url: http://github.com/rchrd
-
-
-- name: Benny Cornelissen
-  pic: 5
-  tagline: Infrastructure Hacker
-  social: 
-    - title: linkedin
-      url: https://nl.linkedin.com/in/bennycornelissen
-    - title: twitter
-      url: https://twitter.com/whieee
-    - title: bitbucket
-      url: https://bitbucket.org/bcornelissen
-    - title: github
-      url: http://github.com/bennycornelissen
-    
-- name: Armin Coralic 
-  pic: 6 
-  tagline: Dockerizer
-  social:
-    - title: linkedin
-      url: https://nl.linkedin.com/in/armincoralic 
-    - title: github
-      url: http://github.com/acoralic
-
-- name: Roy Bos 
-  pic: 7 
-  tagline: Full Stack Developer 
-  social:
-    - title: linkedin
-      url: https://nl.linkedin.com/in/roybos 
-    - title: github
-      url: http://github.com/roybos
-
-
-- name: Martin van Steenis 
-  pic: 8
-  tagline: Firestarter 
-  social:
-    - title: linkedin
-      url: https://nl.linkedin.com/in/martinvansteenis
-
-- name: Fai Fung
-  pic: 9
-  tagline: DevOps Advocate
-  social:
-    - title: linkedin
-      url: https://nl.linkedin.com/in/faifung
-    - title: github
-      url: https://github.com/ffung
-    - title: twitter
-      url: https://twitter.com/fai_fung
+      url: http://nl.linkedin.com/pub/peter-willemse/40/906/5b4
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/cargonauts
   - title: github
-    url: http://github.com/cargonauts
+    url: http://github.com/devopsautomators
 
 # Postal address (add as many lines as necessary)
 address:
